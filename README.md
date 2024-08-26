@@ -78,8 +78,12 @@
 | **￥200-???**| 支持定制修改, 视需求复杂程度定价, 欢迎垂询。 |
 
 **扫码支持：**
+| 支付宝 | 微信             |
+| :------: | :-------------------: |
+|<img src="https://github.com/user-attachments/assets/d87a83af-9f5a-4574-afc5-aa99adfb16fe" alt="" width="240" height="360">|<img src="https://github.com/user-attachments/assets/0076cb12-2f91-4f94-aa30-aada58487b43" alt="" width="240" height="325">|
 
-<img src="https://github.com/user-attachments/assets/d87a83af-9f5a-4574-afc5-aa99adfb16fe" alt="" width="240" height="360">
+
+
 
 
 非常感谢您的支持！😊
