@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "datasource",
+  "name": "Aliyun CMS Datasource",
+  "id": "aliyuncms-datasource",
+  "alerting": false,
+  "metrics": true,
+  "backend": true,
+  "executable": "gpx_aliyun_cms",
+  "info": {
+    "description": "",
+    "author": {
+      "name": "Roodkcab"
+    },
+    "keywords": ["datasource"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2024-08-26"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=10.4.0",
+    "plugins": []
+  }
+}
