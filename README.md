@@ -16,6 +16,8 @@
 ## 快速开始
 
 按照以下步骤，您可以快速配置并使用阿里云 Grafana Datasource。
+![image](https://github.com/user-attachments/assets/9052b482-5618-4327-bbf7-bb3df23b6cb8)
+
 
 ### 步骤一：设置账号
 
