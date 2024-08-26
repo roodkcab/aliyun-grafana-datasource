@@ -47,9 +47,11 @@
    - 点击“Add new panel”添加新的面板。
 
 2. **配置面板数据**
-   - 在“Query”选项卡中，选择您之前配置的阿里云数据源。
+   - 在“Datasource”选项卡中，选择您之前配置的阿里云数据源。
    - 选择您想要监控的服务和指标，例如：ECS 的 CPU 使用率。
    - 配置时间范围和其他查询参数，以满足您的监控需求。
+ ![image](https://github.com/user-attachments/assets/f39a031a-e969-481f-852f-9bb20fe3bb1d)
+
 
 3. **自定义面板显示**
    - 在“Visualization”选项卡中，选择合适的图表类型（折线图、柱状图等）。
