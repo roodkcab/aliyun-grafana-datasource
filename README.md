@@ -94,8 +94,9 @@
 
 ## 联系我
 
-如有任何问题或建议，欢迎通过以下方式与我联系：
+如有任何问题或建议，欢迎加入QQ群与我联系：
 
-- **Email**: buaacss@gmail.com
+<img src="https://github.com/user-attachments/assets/b804644d-99ed-4ce8-9538-7afe6973af89" alt="" width="256" height="456">
+
 
 感谢您使用阿里云 Grafana Datasource，祝您监控愉快！
