@@ -30,7 +30,7 @@
      |AliyunALBReadOnlyAccess|用于读取server group service name|
 
 2. **安装阿里云 Grafana Datasource 插件**
-   - 将dist目录复制到plugins/aliyuncms-datasource
+   - 将dist目录复制到```plugins/aliyuncms-datasource```
    - 在ini文件设置```allow_loading_unsigned_plugins = aliyuncms-datasource```
    - 重启 Grafana 服务以加载新安装的插件。
 
