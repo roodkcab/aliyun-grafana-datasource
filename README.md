@@ -1,3 +1,5 @@
+[中文文档](https://github.com/roodkcab/aliyun-grafana-datasource/blob/master/README.%E4%B8%AD%E6%96%87.md)
+
 # Alibaba Cloud Grafana Datasource User Guide
 
 The Alibaba Cloud Grafana Datasource is a powerful plugin that helps you easily integrate and visualize Alibaba Cloud monitoring data in Grafana. With this plugin, you can monitor the performance metrics of cloud resources in real-time, quickly identify issues, and improve operational efficiency.
