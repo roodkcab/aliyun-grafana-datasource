@@ -71,8 +71,6 @@ Follow these steps to quickly configure and use the Alibaba Cloud Grafana Dataso
 
 ## Contact Me
 
-If you have any questions or suggestions, feel free to join the Telegram group to contact me:
-
-<img src="" alt="" width="256" height="456">
+If you have any questions or suggestions, feel free to join the Telegram group:https://t.me/+Bp3O4Hsv26AxZTY1
 
 Thank you for using Alibaba Cloud Grafana Datasource, and happy monitoring!
